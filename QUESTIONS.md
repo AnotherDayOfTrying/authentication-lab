@@ -39,7 +39,7 @@ Session:
 
 Authenticate a service using a another service.
 
-photo.com -> Log In -> Redirect to Log In w/ Google > Enter credentials > Client gets shared authorization ID w/ photo.com > photo.com uses authentication ID to get an authentication token > authentication token verifies user is authenticated with photo.com
+photo.com -> Log In -> Redirect to Log In w/ Google > Enter credentials > Client gets shared authorization ID w/ photo.com > client uses authentication ID to get an authentication token > authentication token verifies user is authenticated with photo.com
 
 ## Question 5: Please provide a link to your code.
 
